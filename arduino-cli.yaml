@@ -1,0 +1,10 @@
+directories:
+  data: C:\Users\User\Desktop\sunny\Arduino\self_balance_v2\.arduino15
+  downloads: C:\Users\User\Desktop\sunny\Arduino\self_balance_v2\.arduino15\staging
+  user: C:\Users\User\Desktop\sunny\Arduino\self_balance_v2\Arduino
+board_manager:
+  additional_urls: []
+library:
+  enable_unsafe_install: false
+sketch:
+  always_export_binaries: false
